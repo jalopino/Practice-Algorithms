@@ -1,3 +1,2 @@
-# Practice-Algorithms
-
+# Practice
 Random Python Practice Files
